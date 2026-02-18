@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at Austin, where I work with Professor Sarfraz Khurshid. I previously earned my M.S.E. from UT Austin in 2025 while pursuing my Ph.D., and my B.S. from Beijing Jiaotong University in China, where I worked with Professor Ruipeng Gao.
+I’m a Ph.D. candidate in the Department of Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), where I work with Professor [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid////). I previously earned my M.S.E. from [UT Austin](https://www.utexas.edu/) in 2025 while pursuing my Ph.D., and my B.S. from [Beijing Jiaotong University](https://bjtu.edu.cn/) in China.
 
 My research interests are in large language models and software testing.
