@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), advised by Prof. [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid////). I received my M.S.E. from [UT Austin](https://www.utexas.edu/) (2025) and my B.S. from [Beijing Jiaotong University](https://bjtu.edu.cn/) (2023) in China.
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), advised by Professor [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid////). I received my M.S.E. from [UT Austin](https://www.utexas.edu/) (2025) and my B.S. from [Beijing Jiaotong University](https://bjtu.edu.cn/) (2023) in China.
 
 My research focuses on large language models and software testing, with an emphasis on building reliable LLM-based software systems. 
 
