@@ -389,7 +389,7 @@ ninja.data = [{
           title: 'I received my M.S.E. in Electrical and Computer Engineering from The University of...',
           description: "",
           section: "News",},{id: "news-our-paper-obsmith-llm-powered-javascript-obfuscator-testing-was-accepted-by-oopsla-26",
-          title: 'Our paper OBsmith: LLM-powered JavaScript Obfuscator Testing was accepted by OOPSLA’26!',
+          title: 'Our paper OBsmith: LLM-Powered JavaScript Obfuscator Testing was accepted by OOPSLA’26!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
