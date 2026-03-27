@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-27'
 papers:
   GFPWKLoAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'BatMapper-Plus: Smartphone-Based Multi-level Indoor Floor Plan Construction via Acoustic Ranging and Inertial Sensing'
     year: '2022'
   GFPWKLoAAAAJ:UebtZRa9Y70C:
-    citations: 1
+    citations: 5
     title: 'APRIL: API Synthesis with Automatic Prompt Optimization and Reinforcement Learning'
     year: '2025'
   GFPWKLoAAAAJ:W7OEmFMy1HYC:
@@ -24,10 +24,6 @@ papers:
   GFPWKLoAAAAJ:d1gkVwhDpl0C:
     citations: 7
     title: On the effectiveness of large language models in writing alloy formulas
-    year: '2025'
-  GFPWKLoAAAAJ:hqOjcs7Dif8C:
-    citations: 5
-    title: An approach for API synthesis using large language models
     year: '2025'
   GFPWKLoAAAAJ:qjMakFHDy7sC:
     citations: 3
