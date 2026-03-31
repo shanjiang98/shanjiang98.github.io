@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-27'
 papers:
+  GFPWKLoAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: 'OBsmith: LLM-Powered JavaScript Obfuscator Testing'
+    year: '2026'
   GFPWKLoAAAAJ:2osOgNQ5qMEC:
     citations: 1
     title: Smartphone-Based Indoor Floor Plan Construction via Acoustic Ranging and Inertial Tracking
@@ -9,24 +13,16 @@ papers:
     citations: 3
     title: 'BatMapper-Plus: Smartphone-Based Multi-level Indoor Floor Plan Construction via Acoustic Ranging and Inertial Sensing'
     year: '2022'
-  GFPWKLoAAAAJ:Se3iqnhoufwC:
+  GFPWKLoAAAAJ:UebtZRa9Y70C:
     citations: 5
-    title: An approach for API synthesis using large language models
-    year: '2025'
-  GFPWKLoAAAAJ:W7OEmFMy1HYC:
-    citations: 4
-    title: 'Cascade: Llm-powered javascript deobfuscator at google'
-    year: '2025'
-  GFPWKLoAAAAJ:WF5omc3nYNoC:
-    citations: 0
-    title: 'OBsmith: Testing JavaScript Obfuscator using LLM-powered sketching'
-    year: '2025'
-  GFPWKLoAAAAJ:YsMSGLbcyi4C:
-    citations: 1
     title: 'APRIL: API Synthesis with Automatic Prompt Optimization and Reinforcement Learning'
     year: '2025'
+  GFPWKLoAAAAJ:W7OEmFMy1HYC:
+    citations: 5
+    title: 'Cascade: Llm-powered javascript deobfuscator at google'
+    year: '2025'
   GFPWKLoAAAAJ:d1gkVwhDpl0C:
-    citations: 6
+    citations: 7
     title: On the effectiveness of large language models in writing alloy formulas
     year: '2025'
   GFPWKLoAAAAJ:qjMakFHDy7sC:
