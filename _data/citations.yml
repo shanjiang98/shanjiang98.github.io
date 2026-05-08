@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-08'
 papers:
   GFPWKLoAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -10,19 +10,19 @@ papers:
     title: 'BatMapper-Plus: Smartphone-Based Multi-level Indoor Floor Plan Construction via Acoustic Ranging and Inertial Sensing'
     year: '2022'
   GFPWKLoAAAAJ:KlAtU1dfN6UC:
-    citations: 6
+    citations: 7
     title: An approach for API synthesis using large language models
     year: '2025'
   GFPWKLoAAAAJ:W7OEmFMy1HYC:
-    citations: 9
+    citations: 10
     title: 'Cascade: Llm-powered javascript deobfuscator at google'
     year: '2025'
   GFPWKLoAAAAJ:Zph67rFs4hoC:
-    citations: 1
+    citations: 2
     title: 'OBsmith: LLM-Powered JavaScript Obfuscator Testing'
     year: '2026'
   GFPWKLoAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 9
     title: On the effectiveness of large language models in writing alloy formulas
     year: '2025'
   GFPWKLoAAAAJ:kNdYIx-mwKoC:
@@ -34,6 +34,6 @@ papers:
     title: 'PeTrack: Smartphone-based pedestrian tracking in underground parking lot'
     year: '2022'
   GFPWKLoAAAAJ:u5HHmVD_uO8C:
-    citations: 7
+    citations: 8
     title: Generating executable oracles to check conformance of client code to requirements of JDK Javadocs using LLMs
     year: '2024'
