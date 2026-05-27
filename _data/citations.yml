@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-27'
 papers:
   GFPWKLoAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -22,7 +22,7 @@ papers:
     title: 'Cascade: Llm-powered javascript deobfuscator at google'
     year: '2025'
   GFPWKLoAAAAJ:Zph67rFs4hoC:
-    citations: 5
+    citations: 6
     title: 'OBsmith: LLM-powered JavaScript obfuscator testing'
     year: '2026'
   GFPWKLoAAAAJ:_kc_bZDykSQC:
