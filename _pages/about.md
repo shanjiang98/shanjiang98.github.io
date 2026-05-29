@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: The University of Texas at Austin
+subtitle: Large-scale TPU systems @ Google
 
 profile:
   align: right
@@ -26,7 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a Software Engineer at Google, working on large-scale TPU systems for LLM training and inference.
 
 I received my Ph.D. from the Department of Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/) in 2026, advised by Professor [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I received my B.Eng. in Software Engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2023.
 
-My research focuses on large language models and software testing, with an emphasis on building reliable LLM-powered software systems. I am open to research collaborations — feel free to reach out!
+My research focuses on leveraging large language models for automated software engineering, including test automation, program synthesis, and formal verification. I am open to research collaborations — feel free to reach out!
