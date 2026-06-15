@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-15'
 papers:
   GFPWKLoAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: 'Sketch-and-Verify: Structured Inference-Time Scaling via Program Sketching'
     year: '2026'
   GFPWKLoAAAAJ:9yKSN-GCB0IC:
-    citations: 4
+    citations: 5
     title: 'BatMapper-Plus: Smartphone-Based Multi-level Indoor Floor Plan Construction via Acoustic Ranging and Inertial Sensing'
     year: '2022'
   GFPWKLoAAAAJ:KlAtU1dfN6UC:
@@ -18,7 +18,7 @@ papers:
     title: An approach for API synthesis using large language models
     year: '2025'
   GFPWKLoAAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 14
     title: 'Cascade: Llm-powered javascript deobfuscator at google'
     year: '2025'
   GFPWKLoAAAAJ:Zph67rFs4hoC:
